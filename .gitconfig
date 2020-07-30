@@ -1,0 +1,11 @@
+[user]
+	name = Xavier Lowmiller
+	email = xaver.lohmueller@me.com
+[core]
+	excludesfile = /Users/xlo/.gitignore
+[commit]
+	template = /Users/xlo/.stCommitMsg
+[pull]
+	rebase = true
+[diff]
+	noprefix = true
